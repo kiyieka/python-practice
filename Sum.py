@@ -13,4 +13,4 @@ for number in numbers:
     total += number
 
 # Now I print the total
-    print("The sum of the list is:",total)
+print("The sum of the list is:",total)
