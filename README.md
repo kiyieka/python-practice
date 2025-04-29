@@ -1,5 +1,6 @@
 # python-practice
 Kiyieka Ehlert Moracha - 170603
+
 factorial.py- This file contains a code that asks the user for a numbeer then finds the factorial of that number.
 
 parity.py- This file contains a code that asks for user input and determines whether the number is odd or even.
